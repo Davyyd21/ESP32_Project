@@ -1,1 +1,2 @@
 # ESP32_Project
+The project is an ESP32-based wireless communication system that integrates Bluetooth Classic and Wi-Fi capabilities to connect a mobile application with a microcontroller. This system scans nearby Wi-Fi networks, retrieves JSON-formatted data from a custom API using HTTP GET requests, processes the data, and transmits selected entries back to the mobile app via Bluetooth Classic. The development process provided hands-on experience in IoT development, wireless communication protocols, and real-time data handling.
